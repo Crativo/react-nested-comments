@@ -1,0 +1,38 @@
+[
+  {
+    "author": "Jose Viscasillas",
+    "picture": "",
+    "body": "this is awesome",
+    "parent": true,
+    "comments": [2],
+    "timestamp": "2018-08-26T22:23:23-04:00",
+    "id": 1
+  },
+  {
+    "author": "Jose Viscasillas",
+    "picture": "",
+    "body": "i am a reply to this is awesome",
+    "parent": false,
+    "comments": [],
+    "timestamp": "2018-08-26T22:23:32-04:00",
+    "id": 2
+  },
+  {
+    "author": "Jose Viscasillas",
+    "picture": "",
+    "body": "burgers are good",
+    "parent": true,
+    "comments": [4],
+    "timestamp": "2018-08-26T22:23:37-04:00",
+    "id": 3
+  },
+  {
+    "author": "Jose Viscasillas",
+    "picture": "",
+    "body": "i love a good burger reply",
+    "parent": false,
+    "comments": [],
+    "timestamp": "2018-08-26T22:23:44-04:00",
+    "id": 4
+  }
+]
